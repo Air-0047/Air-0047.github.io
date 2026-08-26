@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://air-0047.github.io/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-26T14:38:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -23,6 +23,27 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://air-0047.github.io/ja/"
+                />
+  </url><url>
+    <loc>https://air-0047.github.io/p/newnewnew/</loc>
+    <lastmod>2026-08-26T14:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://air-0047.github.io/post/</loc>
+    <lastmod>2026-08-26T14:38:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://air-0047.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://air-0047.github.io/zh-hant-tw/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://air-0047.github.io/ja/post/"
                 />
   </url><url>
     <loc>https://air-0047.github.io/categories/</loc>
@@ -100,24 +121,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://air-0047.github.io/ja/tags/photoswipe/"
-                />
-  </url><url>
-    <loc>https://air-0047.github.io/post/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://air-0047.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://air-0047.github.io/zh-hant-tw/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://air-0047.github.io/ja/post/"
                 />
   </url><url>
     <loc>https://air-0047.github.io/tags/</loc>
