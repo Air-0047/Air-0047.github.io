@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://air-0047.github.io/</loc>
-    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://air-0047.github.io/post/</loc>
     <lastmod>2026-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://air-0047.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://air-0047.github.io/</loc>
     <lastmod>2026-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://air-0047.github.io/categories/</loc>
@@ -149,11 +149,7 @@
     <loc>https://air-0047.github.io/p/pagination-test-01/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://air-0047.github.io/_index.ja/</loc>
-  </url><url>
     <loc>https://air-0047.github.io/_index.zh-cn/</loc>
-  </url><url>
-    <loc>https://air-0047.github.io/_index.zh-hant-tw/</loc>
   </url><url>
     <loc>https://air-0047.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
   </url><url>
